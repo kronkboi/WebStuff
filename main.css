@@ -1,0 +1,91 @@
+
+#wrapper{
+    max-width: 2000px;
+    margin: 0 auto;
+    background-color:black;
+    padding: 25px;
+    
+}
+header{
+    background-color: fuchsia;
+    height: 100px;
+    padding: 4px;
+    
+}
+
+header h1 {
+    text-transform: uppercase;
+    text-align: center;
+    color: cyan;
+    line-height: 50px;
+}
+
+header h2{
+   font-variant: small-caps;
+    font-size: 10px;
+    text-align: center;
+    color: cyan;
+}
+
+.main_menu {
+    padding: 5px 0 5px 0;
+    text-align:  center;
+    line-height:  32px;
+    background-color: coral;
+}
+
+ul.main_menu {
+    
+margin-top: 15px;
+}
+
+.main_menu li{
+ display: inline;
+    padding: 0 10px 0 10px;
+    font-size: 20px;
+}
+
+.main_menu a{
+    text-decoration: none;
+    color: darkred;
+    padding: 8px;
+    font-variant: small-caps;
+    
+}
+
+.main_menu a:hover{
+    color: purple;
+}
+
+#bodytext{
+    
+    max-width: 1000px;
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 15px;
+    margin: 0 auto;
+    background-color:sandybrown;
+    padding: 5px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
